@@ -26,7 +26,7 @@ durchführen und den Focus auf das heute Themengebiet *Ebenen* lenken.
   * Ebenengruppen (wie kann man damit mehrere Ebenen logisch gruppieren?)
 
 Begriffe könnte man vielleicht folgendermaßen erklären:
-![Ebenenmanager](https://github.com/karo1205/GimpForIlliterate/blob/master/Materialien/Bilder/ebenenmanager.png) 
+![Ebenenmanager](https://raw.github.com/karo1205/GimpForIlliterate/master/Materialien/Bilder/ebenenmanager.png) 
   
 Links
 -----
