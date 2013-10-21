@@ -27,6 +27,11 @@ durchführen und den Focus auf das heute Themengebiet *Ebenen* lenken.
 
 Begriffe könnte man vielleicht folgendermaßen erklären:
 ![Ebenenmanager](https://raw.github.com/karo1205/GimpForIlliterate/master/Materialien/Bilder/ebenenmanager.png) 
+
+Todo
+----
+
+* Kann man bei Github auch ein privates Repository erstellen? (wegen urheberrechtlich geschütztem Material)
   
 Links
 -----
