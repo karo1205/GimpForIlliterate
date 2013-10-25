@@ -41,10 +41,23 @@ Prezi-Teile:
   * Anschauliche Graphiken mit animationen (z.B. Ebenen, die sich übereinanderschieben...)
 
 * Was sind Ebenen? 
-  * Wie kann man sich Ebenen vorstellen? 
-  * Wozu braucht man sie? 
-  * Wieso arbeitet man nicht nur mit einer Ebene?
-  * Wie finde ich die Ebenen in Gimp?
-  * Welche wichtigen Funktionen gibt es?
-	
+* Wie kann man sich Ebenen vorstellen? 
+* Wozu braucht man sie? 
+* Wieso arbeitet man nicht nur mit einer Ebene?
+  * Beispiel zeigen (z.B. Maus in Käfig, Haus in Umgebeung ...)
+* Wie finde ich die Ebenen in Gimp?
+* Welche wichtigen Funktionen gibt es?
+* 
+
+Paktischen Teile:
+* ???
+
+Offen: Was zeigen wir auf Gimp her?
+
+Todos bis zum nächsten Treffen:
+Robert: Icons sammeln/extrahieren
+alle: In Prezi und Gimp einarbeiten
+alle: was kann man praktisch herzeigen und wie
+
+
 
