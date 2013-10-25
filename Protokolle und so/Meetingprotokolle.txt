@@ -1,0 +1,50 @@
+Meeting 25.10.2013
+==================
+Voraussetzungen für die Teilnehmer:
+	Die Personen besuchen einen Kurs über den sie zu uns gegkommen sind
+	Einfach Buchstaben werden erkannt
+	Einfaches Rechnen bzw Abzählen ist möglich (z.B. 4. Menüeintrag)
+
+Thema:
+	Wir haben uns auf "Layers" im Gimp und Prezi als Präsentationstool geeignet
+	Ablauf: erst Prezi, dann evtl live Vorzeigen in Gimp
+
+Länge: 
+	ca 15min pro Person
+
+
+Do's and Dont's für den Vortrag
+  * Bei deutschen Begriffen bleiben ("Ebenen", nicht "Layer")
+  * Viel Graphik, wenig Text (nur die Anfangsbuchstaben, wenn nöti auch den zweiten Buchstaben mitnehmen) --> im Prezi deutlich ervorheben
+
+
+Einführung im Vortrag:
+======================
+Folgendes wird vor dem eigentlichen Vortrag den Auditorum mitgeteilt.
+Zielpublikunm:
+	Analphabeten, kommen z.B. über Abendschule
+Wissen der teilnehmer
+	Geringstes Wissen ist es einzelne Buchstaben zu unterscheiden und zu erkennen, Problemen bei Wörtern
+Hintergrund: 
+	sozialer Aspekt: Zusammenarbeit in der Gruppe, Kennenlernen von Menschen mit der selben Thematik
+	Gimp lernen für privates und vielleicht später berufliches Umfeld
+Stand und Situation:
+	fortgeschritten im Programm, Basiswerkzeuge, neues Bild... wurde bereits gelehrt. Beginn: "Ebenen in Gimp"
+	es wird in Teams zu zwei Personen gearbeitet um sich gegenseitig helfen zu können und voneinander zu lernen
+
+
+Inhalt des Vortrages:
+=====================
+Prezi-Teile:
+* Generelle Anmerkungen:
+  * Immer die Icons des Gimp verwenden und mit den Funktionen assoziierren.
+  * Anschauliche Graphiken mit animationen (z.B. Ebenen, die sich übereinanderschieben...)
+
+* Was sind Ebenen? 
+  * Wie kann man sich Ebenen vorstellen? 
+  * Wozu braucht man sie? 
+  * Wieso arbeitet man nicht nur mit einer Ebene?
+  * Wie finde ich die Ebenen in Gimp?
+  * Welche wichtigen Funktionen gibt es?
+	
+
