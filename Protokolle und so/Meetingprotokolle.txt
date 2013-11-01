@@ -60,4 +60,80 @@ alle: In Prezi und Gimp einarbeiten
 alle: was kann man praktisch herzeigen und wie
 
 
+Skype-Meeting 1.11.2013
+=======================
+Idee: zusätzlich zu Prezi: 
+Overheadfolien
+	- Hintergrund
+	- Tier
+	- Käfig
+	- Zusatzfolie für "ausschneiden"
+
++ zusätzliche Folie mit Gesamtbild (HG, Tier, Käfig) - als Vergleich
+
+Idee: Folien hintereinanderlegen und Ergebnis ansehen.
+
+AP: 
+ * Niko: Grafiken erstellen (Hintergrund, Tier und Käfig - bitte per mail an alle, wenn fertig)
+ * Niko: Nachforschung betr. weitere Funktionen im Gimp
+ * Bernhard: Folien
+ * Bernhard: mail an Prof bzgl. Räumlichkeiten (Möglichkeiten...)
+ * Robert: Offline Prezi auf Linux
+ * Robert: Icons runterladen
+ * Robert: Prezi anfangen (Chalk-board)
+ 
+Anmerkungen:
+============
+- einfache Wörter verwenden ("Ebene" statt "Ebenenmodus")
+- Icons aus den Ebenen als SVG groß am Schirm (Prezi) zeigen
+- zwei Teile?:
+ - 1. Prezi
+ - 2. Live herzeigen: Ein großes Beispiel am Ende ("Und jetzt sehen wir uns das auch gemeinsam interaktiv live an")
+	- z.B. Zwischenfragen: wie gehen wir jetzt weiter, was ist jetzt zu tun...?
+- Wenn kein getrennter overhead-Platz: Weißer Hintergrund über Prezi als "Projektionsfläche"
+
+Prezi-Folien:
+=============
+Template: Chalk-Board
+Generell: Gimp-Icon in der Mitte, andere Themen rundherum - wie Brainstorming
+* Übersicht
+* Deckblatt (Gimp-Logo) in der Mitte - als "Kreidezeichnung"?
+* 0. Folie: Gimp-Übersichtsbild
+* 1. Folie: "Das war letztes mal: Werkzeugkasten" (Übergang Übersicht --> Werzeugkasten)
+* 2. Folie: "Das machen wir diesmal: Ebenen" (Übergang Übersicht --> Ebenendialog), "Welche Ebenen gibt es denn hier?" AP: Ebenenbild
+* 3. Folie: "Ebenen-Icon" einblenden
+* 4. "Folie" Wie kann man Ebenen verstehen? --> Overheadfolien, siehe oben (könnte wer anderer machen)
+  * 4a. Ebenen-Funktionen Folien 
+    * additiv übereinander legen (-> neue Ebene)
+    * wieder wegnehmen* (-> Ebene ausblenden, löschen)
+    * Reihenfolge ändern (-> Ebene rauf/runter)
+    * Ausschneiden (mit echter Schere)
+    * was noch? ...
+* 5. Folie: Ebenen-Funktionen im Gimp
+  * 5a. Ensprechend der "Funktionen", die über die Folien gezeigt wurden
+  * neue Ebene erstellen
+  * Ebene ausblenden/einblenden/löschen
+  * Reihenfolge ändern (rauf/runter)
+  * zusaätzliche Ebenen-Funktionen, die über Folien hinausgehen
+    * Duplizieren
+    * Transparenz
+  
+* n. Folie: "Der Radiergummi: (Übergang: Werzeugkasten --> Radiergummi)
+
+
+Vortrag:
+0.) 
+1.) Begrüßung
+2.) 
+3.) Wie sieht man Transparenz in Gimp?
+	gar nicht 
+	graues Karo
+4.) Demo von grundlegenden Ebenenoperationen von Ausschneiden und Sichtbarkeit
+*) ... generell entsprechend der Folien oben
+
+
+
+ 
+
+
 
