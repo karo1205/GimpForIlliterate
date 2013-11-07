@@ -78,7 +78,7 @@ AP:
  * Niko: Nachforschung betr. weitere Funktionen im Gimp
  * Bernhard: Folien
  * Bernhard: mail an Prof bzgl. Räumlichkeiten (Möglichkeiten...)
- * Robert: Offline Prezi auf Linux
+ * Robert: Offline Prezi auf Linux --> DONE. Offline Prezi runterladen und mit Wine starten
  * Robert: Icons runterladen
  * Robert: Prezi anfangen (Chalk-board)
  
