@@ -133,7 +133,64 @@ Vortrag:
 
 
 
- 
+ Skype-Meeting, 8.11.2013
+ ========================
+ Hi,
 
+ganz kurz zum heutigen Meeting:
+* Overheadfolien werden evtl nicht funktioneren -> ausprobieren
+* Prezi-Präsentation und Gimp-Projekt soweit OK, werden wie vorbereitet (und evtl erweitert) verwendet
+* Radiergummi (nach Transparenz) und Auschneiden sollen noch aufgenommen werden
+* Online wurden zwei neue Frames im Prezi erstellt: Zoom auf Werkzeugkasten und Zoom auf die Augen im Ebenendialog.
+* In unserer Präsentation wollen wir noch erwähnen:
+>* Tabulator (wenn Bild selektiert) zum Ein/Ausschalten der Dialoge
+>* Evtl. Ebnen-Menü zeigen (ist aber problematisch, da Textlastig)
 
+Vortragsweise:
+*1. Teil: Ein oder zwei Personen konzentrieren sich auf Prezi, dritte unterstützt mit Overheadfolien
+2. Teil: Ein oder zwei Personen konzentrieren sich auf Erklärung des Live-Teils, dritte unterstützt mit Gimp am Computer
 
+Dazu benötigen wir eine Art "Drehbuch" für die Präsi, mit Stichworten zur Synchronisation zw. Sprecher und Zeichner
+
+APs:
+Niko: Funktion betreffend Ausschneiden in Gimp mit aufnehmen, in git pushen
+Bernhard: Overheadfolien probieren
+Robert: Anpassung und Finalisierung Prezi, Anfang Drehbuch
+
+Folgende Inhalte und Ablauf werden die Präsentationen beinhalten (bitte um Kommentar):
+
+Generelles Vorgehen bei der Präsentation:
+0. Vorab- Metainformation für Auditorium
+* Setting
+* Zielpublikum
+* Wo sind wir in der Schulung
+
+1. Prezi-Vortrag
+* Begrüßung (Prezi-Overall-Folie) --> Gimp Maskottchen-Folie
+* Dies kennen wir vom letzten mal (Gimp-Fenster-Folie)
+* Fragen zum letzten mal?
+* Was war letztes mal (Palette-Folie)
+* Was wollen wir diesmal machen: Ebenen.
+* Was ist eine Ebene
+* Was ist Transparenz? Wie wird Transparenz im Gimp dargestellt?
+* Erklärung via Overheadfolien (wenn möglich)
+* Wo ist der Ebenendialog im Gimp zu finden?
+* Erklärung Ebenendialog (durchzappen der verschiedenen Icons)
+(So was werden wir jetzt machen (Gimp-Gesamtbild mit Ebenen und Gimp-Maskottchen in der Landschaft)
+* Overall-Bild
+* Fragen?
+2. Gimp-Vortrag
+* Umschalten auf den Gimp
+* Es ist das Bild wie im Prezi sichtbar aber ohne Käfig
+* Erklärung dessen, das da zu sehen ist
+* Darstellung der "Augen", was passiert, wenn man ein Auge anklickt
+* Erklärung, dass die Ebene bearbeitet wird, die markiert ist --> häufiger Fehler!
+* Live-Aufgabe: Wir wollen das Gimp-Maskottchen einsperren
+* Erstellen einer neune Ebene ("Wer weiß noch, wie man das macht?)
+* Achtung: transparente Ebene auswählen
+* neue Ebene erklären, verschieben
+* In neue Ebene einfachen, schwarzen Käfig zeichnen ("wie man das macht haben wir ja bereits gelernt")
+* Käfig im Ebenenstapel rauf- und runterschieben (Maskottchen im Käfig oder davor)
+* Pinsel schaut unten raus --> wie bekommen wir das weg?
+* Radiergummi (Radieren nach Transparenz)
+* Auschneiden --> Wie bringen wir das am besten in den workflow
