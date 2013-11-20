@@ -1,33 +1,34 @@
-\documentclass[a5paper,showtrims,11pt]{memoir}
+\documentclass[a4paper,showtrims,11pt]{memoir}
 
 \usepackage{dramatist}
 \usepackage[latin1]{inputenc}
 
 %% Layout
-\settrimmedsize{18,5cm}{13cm}{*}
-\setlength{\trimedge}{\stockwidth}
-\addtolength{\trimedge}{-\paperwidth}
-\settrims{0pt}{\trimedge}
-\settypeblocksize{*}{22pc}{1.71}
-\setlrmargins{*}{*}{1.5}
-\setulmargins{*}{*}{1}
-\setlength{\footskip}{20pt}
-\checkandfixthelayout
-
-\ifpdf
-\setlength{\pdfpageheight}{\stockheight}
-\setlength{\pdfpagewidth}{\stockwidth}
-\fi
-\renewcommand{\printscenenum}{%
-    \scenenumfont \thescene}
-\setlength{\beforesceneskip}{20pt}
+% \settrimmedsize{18,5cm}{13cm}{*}
+% \setlength{\trimedge}{\stockwidth}
+% \addtolength{\trimedge}{-\paperwidth}
+% \settrims{0pt}{\trimedge}
+% \settypeblocksize{*}{22pc}{1.71}
+% \setlrmargins{*}{*}{1.5}
+% \setulmargins{*}{*}{1}
+% \setlength{\footskip}{20pt}
+% \checkandfixthelayout
+% 
+% \ifpdf
+% \setlength{\pdfpageheight}{\stockheight}
+% \setlength{\pdfpagewidth}{\stockwidth}
+% \fi
+% \renewcommand{\printscenenum}{%
+%     \scenenumfont \thescene}
+% \setlength{\beforesceneskip}{20pt}
 \pagestyle{plain}
 
 
 \begin{document}
 
-\Character[PERSON A, Person A]{PERSON A}{a}
-\Character[PERSON B, Person B]{PERSON B}{b}
+\Character[PERSON A, Person A]{Robert}{a}
+\Character[PERSON B, Person B]{Niko}{b}
+\Character[PERSON B, Person B]{Bernhard}{c}
 
 
 \scene[. -- Vorwort]
