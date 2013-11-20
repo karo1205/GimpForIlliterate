@@ -1,0 +1,84 @@
+Präsentation:
+=============
+Generelles Ablauf:
+0. Meta-Infos
+1. Prezi-Präsentation
+2. Live Demo im Gimp
+3. Abschluss
+
+
+0. Meta-Infos (ca 5 min)
+Sprecher: Robert
+Am Computer: ---
+	Setting
+		Freifach (Schulung) im Rahmen einer Schreib/Lese-Ausblidung für Menschen mit Schreib/Leseschwäche
+	Zielpublikum, Beschreibung mit Beispielen
+		Nicht 100%ig analphabetisch, Lesen oft begrenzt möglich, Schreiben nicht, Via "Mustererkennung" durchs Leben.
+		Vermutlich viele Migranten --> langfsam sprechen, einfacheWörter, wenige Anglizismen.
+	Wo sind wir in der Schulung
+		Bereits gelernt: Grundbegriffe, Bild malen/bearbeiten, Auswahl, Werzeugkasten
+		2. oder 3. Einheit
+
+---------------
+
+1. Prezi-Präsentation (10 min)
+Sprecher: Bernhard
+Am Computer: Bernhard
+1. Teil: (ca 3 min)
+	Begrüßung (Prezi-Overall-Folie) --> Gimp Maskottchen-Folie
+	Wiederholung: Was ist Gimp? --> Photoshop.	
+	Dies kennen wir vom letzten mal (Gimp-Fenster-Folie)
+	Was war letztes mal (Werkzeug-Folie)
+	Fragen zum letzten mal?
+	Was wollen wir diesmal machen: Ebenen.
+
+Sprecher: Niko
+Am Computer: Niko
+2. Teil: (ca 10 min)
+	Wozu Ebenen? --> Auditorium einbeziehen, fragen (Was stellt ihr euch vor? ...)
+	Erklärung via Overheadfolien (Hinweis auf die Limitierung der Folien)
+	Was ist eine Ebene
+	Was ist Transparenz? Wie wird Transparenz im Gimp dargestellt?
+	Wo ist der Ebenendialog im Gimp zu finden?
+	Überblick über die wichtigsten Ebenenfunktionen:
+		Erklärung Ebenendialog (durchzappen der verschiedenen Icons)
+		(So was werden wir jetzt machen (Gimp-Gesamtbild mit Ebenen und Gimp-Maskottchen in der Landschaft)
+	Overall-Bild
+	Fragen?
+	
+2. Live Demo mit Gimp (25 min)
+Generell: Ball zuspielen
+Sprecher: Robert
+Am Computer: Niko
+	Umschalten auf den Gimp
+	Hinweis: Es ist (fast) das Bild wie im Prezi sichtbar
+	Erklärung dessen, das da zu sehen ist
+	Erklärung der "Augen", was passiert, wenn man ein Auge anklickt
+	Erklärung, dass die Ebene bearbeitet wird, die markiert ist --> häufiger Fehler!
+	Vorzeigen: (Einfache Ebenen-Manipulation) Wir wollen das Gimp-Maskottchen einsperren und wieder "befreien" (Ebene ein/ausschalten, verschieben)
+		Käfig im Ebenenstapel rauf- und runterschieben (Maskottchen im Käfig oder davor)
+	Anmerkung: "Wir sehen, dass die Spitze des Pinsels unter dem Käfig ist --> paasst nicht ganz"
+	Pinsel schaut unten raus --> wie bekommen wir das weg?
+
+Sprecher: Bernhard
+Am Computer: Niko
+	Aufgabe: Pinsel	vor Käfig stellen:
+		"Gut aufpassen! Das ist dann die Aufgabe, die ihr anschließend selbsständig macht"
+		Erstellen einer neune Ebene ("Wer weiß noch, wie man das macht?)
+		Achtung: transparente Ebene auswählen - erklären, welche Möglichkeiten es gibt
+		neue Ebene erklären, warum sieht man nichts?
+		Markieren der Pinselspitze mit dem Zauberstab, bis gesamt Spitze markiert
+		Ausschneiden der Spitze
+		Selektieren der neune Ebene
+		Einfügen der Spitze --> schwebende Ebene
+		Verankern der schwebenden Ebene in die neue Abene --> Pinselspitze als einziges Element in der neune Ebene
+	Neue Ebene ein/ausblenden - Effekt herzeigen.
+
+3. Abschluss (3 min)
+Sprecher: Niko
+Am Computer: -------
+Rekapitulation: was haben wir gemacht, Schritte ...
+"Jetzt schreiten wir zur Praxis. gibt es noch Fragen?"
+
+----- ENDE -------
+
