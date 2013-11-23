@@ -3,93 +3,77 @@
 \usepackage{dramatist}
 \usepackage[latin1]{inputenc}
 
-%% Layout
-% \settrimmedsize{18,5cm}{13cm}{*}
-% \setlength{\trimedge}{\stockwidth}
-% \addtolength{\trimedge}{-\paperwidth}
-% \settrims{0pt}{\trimedge}
-% \settypeblocksize{*}{22pc}{1.71}
-% \setlrmargins{*}{*}{1.5}
-% \setulmargins{*}{*}{1}
-% \setlength{\footskip}{20pt}
-% \checkandfixthelayout
-% 
-% \ifpdf
-% \setlength{\pdfpageheight}{\stockheight}
-% \setlength{\pdfpagewidth}{\stockwidth}
-% \fi
-% \renewcommand{\printscenenum}{%
-%     \scenenumfont \thescene}
-% \setlength{\beforesceneskip}{20pt}
+
 \pagestyle{plain}
 
 
 \begin{document}
 
-\Character[PERSON A, Person A]{Robert}{a}
-\Character[PERSON B, Person B]{Niko}{b}
-\Character[PERSON B, Person B]{Bernhard}{c}
 
 
-\scene[. -- Vorwort]
+\Character[PERSON A, Person A]{Robert}{robert}
+\Character[PERSON B, Person B]{Niko}{niko}
+\Character[PERSON B, Person B]{Bernhard}{bernhard}
 
-\StageDir{
-	\begin{center}
-		Keine Folie
-	\end{center}
-}
 
-\begin{drama}
-\aspeaks Bevor wir mit dem eigentlichen Vortrag starten, noch ein paar erklärende Worte zu unserer Zielgruppe. Der Vortrag richtet sich im Wesentlichen an Analphabeten, die sich mit dem Lesen und Schreiben schwer tun. Da der größte Teil der Analphabeten in Österreich zur Gruppe der funktionalen Analphabeten gehört - einfache Wörter (z.B der eigene Name) können geschrieben und kurze Sätze gelesen werden, aber der Sinn längerer Texte wird oftmals nicht verstanden - richtet sich der Vortrag verstärkt an diese Personen. Das Bemerkenswerte ist, dass viele Analphabeten ihre Schreib - und Leseschwäche sehr gut vor anderen verbergen können, indem sie zum Beispiel Dinge, die andere aufschreiben würden, einfach auswändig lernen (hier könnte man die Geschichte der Frau erzählen, die am Serviceschalter Auskunft über Zugverbindungen gibt und dabei alle Ankunfts - und Abfahrtszeiten auswendig gelernt hat). \newline Soviel zu unserer Zielgruppe. Wir hoffen, dass für euch der nachfolgende Vortrag nun etwas verständlicher ist. 
-\end{drama}
+\input{introduction} %Begruessung & Einfuehrung
+
+\input{exercise} % Gimp Live Demo (2.Teil - Pinselspitze freistellen)
 
 
 
 
-\scene[. -- Begrüßung \& Einführung]
-
-\StageDir{
-\begin{center}
-Folie Nummer 1
-\end{center}
-}
-
-
-\begin{drama}
-\bspeaks Ich darf euch ganz herzlich zum zweiten Vortrag der Vortragsreihe zum Thema Gimp begrüßen. Für all jene, die beim ersten Vortrag nicht anwesend waren, möchte ich an dieser Stelle nochmals erwähnen, dass diese Vortragsreihe parallel zum Grundkurs abgehalten wird. Selbstverständlich sind wir uns darüber im Klaren, dass der Grundkurs noch nicht sehr weit fortgeschritten ist und hier vielleicht Wörter verwendet werden, die etwas komplizierter sind und im Grundkurs noch nicht behandelt wurden. Falls ihr Wörter nicht versteht, dann habt keine Scheu und unterbrecht uns einfach ganz kurz, das ist kein Problem. Obwohl in Gimp viele Funktionen durch schöne kleine Bildchen veranschaulicht werden, gibt es ein paar Funktionen die man nur durch das Menü erreichen kann. Am Anfang kann es vorkommen, dass ihr hier einzelne Funktionen vertauscht, da sich die Wörter mitunter doch sehr ähneln. Das ist völlig normal und kein Problem, doch mit voranschreiten des Grundkurses wird euch die Bedienung von Gimp immer einfacher fallen. 
-\end{drama}
 
 
 
-\scene[. -- Rückblick auf den Inhalt des ersten Vortrages]
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\scene[. -- Vorwort]
+
+%\StageDir{
+%	\begin{center}
+%		Keine Folie
+%	\end{center}
+%}
+
+%\begin{drama}
+%\aspeaks Bevor wir mit dem eigentlichen Vortrag starten, noch ein paar erklärende Worte zu unserer Zielgruppe. Der Vortrag richtet sich im Wesentlichen an Analphabeten, die sich mit dem Lesen und Schreiben schwer tun. Da der größte Teil der Analphabeten in Österreich zur Gruppe der funktionalen Analphabeten gehört - einfache Wörter (z.B der eigene Name) können geschrieben und kurze Sätze gelesen werden, aber der Sinn längerer Texte wird oftmals nicht verstanden - richtet sich der Vortrag verstärkt an diese Personen. Das Bemerkenswerte ist, dass viele Analphabeten ihre Schreib - und Leseschwäche sehr gut vor anderen verbergen können, indem sie zum Beispiel Dinge, die andere aufschreiben würden, einfach auswändig lernen (hier könnte man die Geschichte der Frau erzählen, die am Serviceschalter Auskunft über Zugverbindungen gibt und dabei alle Ankunfts - und Abfahrtszeiten auswendig gelernt hat). \newline Soviel zu unserer Zielgruppe. Wir hoffen, dass für euch der nachfolgende Vortrag nun etwas verständlicher ist. 
+%\end{drama}
 
 
-\StageDir{
-\begin{center}
-Folie mit den Werkzeugen
-\end{center} 
-}
-
-\begin{drama}
-\aspeaks Wie sich sicher noch einige von euch erinnern können, haben wir uns im ersten Vortrag mit der Oberfläche von Gimp vertraut gemacht und uns ein bisschen mit den unterschiedlichen Werkzeugen auseinander gesetzt. Unser heutiger Fokus liegt auf den Ebenen. Wir werden zu Beginn einmal klären was denn Ebenen eigentlich sind, wofür man sie in Gimp verwendet und worin der große Vorteil liegt. Anschließend werden wir anhand ein paar einfacher Beispiele zeigen, wie man mit den Werkzeugen auf unterschiedlichen Ebenen arbeiten kann.  
-\end{drama}
 
 
 
-\scene[. -- Ebenen]
 
 
-\StageDir{
-\begin{center}
-Folie ????
-\end{center} 
-}
-
-\begin{drama}
-\bspeaks Nun zu den Ebenen. \textit{Hat von euch vielleicht jemand eine Vorstellung was man sich unter Ebenen vorstellen kann?} Eine Ebene kann man sich im Prinzip wie ein Blatt Papier oder eben diese Tafel vorstellen. An der Tafel kann ich ganz normal zeichnen. Ich kann Dinge hinzufügen und Dinge wieder weglöschen. 
-\end{drama}
+%\scene[. -- Rückblick auf den Inhalt des ersten Vortrages]
 
 
+%\StageDir{
+%\begin{center}
+%Folie mit den Werkzeugen
+%\end{center} 
+%}
+
+%\begin{drama}
+%\aspeaks Wie sich sicher noch einige von euch erinnern können, haben wir uns im ersten Vortrag mit der Oberfläche von Gimp vertraut gemacht und uns ein bisschen mit den unterschiedlichen Werkzeugen auseinander gesetzt. Unser heutiger Fokus liegt auf den Ebenen. Wir werden zu Beginn einmal klären was denn Ebenen eigentlich sind, wofür man sie in Gimp verwendet und worin der große Vorteil liegt. Anschließend werden wir anhand ein paar einfacher Beispiele zeigen, wie man mit den Werkzeugen auf unterschiedlichen Ebenen arbeiten kann.  
+%\end{drama}
+
+
+%\scene[. -- Ebenen]
+
+
+%\StageDir{
+%\begin{center}
+%Folie ????
+%\end{center} 
+%}
+
+%\begin{drama}
+%\bspeaks Nun zu den Ebenen. \textit{Hat von euch vielleicht jemand eine Vorstellung was man sich unter Ebenen vorstellen kann?} Eine Ebene kann man sich im Prinzip wie ein Blatt Papier oder eben diese Tafel vorstellen. An der Tafel kann ich ganz normal zeichnen. Ich kann Dinge hinzufügen und Dinge wieder weglöschen. 
+%\end{drama}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 \end{document}
